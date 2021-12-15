@@ -452,3 +452,7 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/xcode,cocoapods,swift,flutter,dart,androidstudio,android,kotlin,macos
+
+
+# Generated Dart files  
+**/*.g.dart
